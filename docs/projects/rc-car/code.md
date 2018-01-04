@@ -13,7 +13,7 @@ After the package is loaded, you should see a new **Kitronik** category in the t
 
 ## Step 2: Round and round we go!
 
-https://youtu.be/pD6tM1nXCPA
+https://youtu.be/agor9wtiAkE
 
 The first program has the car drive around in a circle for 5 seconds when the user presses the ``A`` button. This is simply done by turning both motor controllers on for 5 seconds.
 
@@ -41,7 +41,7 @@ Depending on how your wires are connected to the motor driver, your car may go b
 
 ## Step 3: Figure eight
 
-https://youtu.be/agor9wtiAkE
+https://youtu.be/pD6tM1nXCPA
 
 Instead of stopping after 5 seconds, we reverse the steering motor to turn in the other direction. This will create a figure eight path.
 
